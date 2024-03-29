@@ -1,0 +1,17 @@
+<html>
+<body>
+    <table border="1">
+        <tr>
+            <th> sr/no. </th>
+            <th> name</th>
+            <th> roll no.</th>
+            <th> university </th>
+        </tr>
+        <tr>
+            <td> 1</td>
+            <td> Deng Kout </td>
+            <td> 02 </td>
+            <td> Mu </td>
+        </tr>
+</body>
+</html>

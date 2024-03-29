@@ -1,0 +1,12 @@
+html>
+<body>
+    <p> html address define the address in the content </p>
+    <address> 
+        mawardi university<br> 
+        campus<br> 
+        rajkot<br>
+        morbi highway<br>
+        360003<br>
+    </address>
+</body>
+</html>
